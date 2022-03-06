@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihzukara
+- 👋 Hi, I’m Ayabulela 
 - 👀 I’m interested in computer science, economics, biology, and languages such as french and russian.
 - 🌱 I’m currently learning computer science at university.
 - 💞️ I’m looking to collaborate on any sort of project.
